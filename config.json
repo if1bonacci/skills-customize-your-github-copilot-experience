@@ -84,6 +84,25 @@
       "description": "Design and implement RESTful APIs using the FastAPI framework. Includes project setup, CRUD endpoints, and API documentation.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-05-11"
+    },
+    {
+      "id": "sqlite-databases",
+      "title": "Introduction to Databases with SQLite",
+      "description": "Integrate SQLite with Python. Perform CRUD operations and optionally connect to FastAPI.",
+      "path": "assignments/sqlite-databases",
+      "dueDate": "2026-05-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Assignment Instructions",
+          "file": "README.md",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
