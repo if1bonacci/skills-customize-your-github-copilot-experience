@@ -58,6 +58,32 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Design and implement RESTful APIs using the FastAPI framework. Students will create CRUD endpoints for a resource and practice data validation and error handling.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-05-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Assignment Instructions",
+          "file": "README.md",
+          "type": "txt"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Design and implement RESTful APIs using the FastAPI framework. Includes project setup, CRUD endpoints, and API documentation.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-05-11"
     }
   ]
 }
